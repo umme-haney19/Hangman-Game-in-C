@@ -1,0 +1,14 @@
+//umme-haney19
+paypal
+autodesk
+netflix
+instagram
+github
+pornhub
+skysports
+linkdin
+facebook
+dropbox
+
+
+CMD =  c:\Users\user\Downloads\HangmanGameC\hangman
